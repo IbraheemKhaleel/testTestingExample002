@@ -15,5 +15,9 @@ public class testTestingExample002 {
 	{
 		System.out.println(" Life is actually easy ");
 	}
+	public void printmoreandmore()
+	{
+		System.out.println(" Life is sometimes hard too ");
+	}
 
 }
