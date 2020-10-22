@@ -7,5 +7,9 @@ public class testTestingExample002 {
 	public static void main(String[] args) {
 		System.out.println(" Hello everyone ");
 	}
+	public void print()
+	{
+		System.out.println(" Life is hard ");
+	}
 
 }
